@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Quiz Application](https://github.com/felixxplore/Quiz-Application)
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Docker for better DevOps and deployment practices.**
+- **🌱 I’m currently learning Docker for better DevOps and deployment practices.**
 
-- 👯 I’m looking to collaborate on **🤝 I’m looking to connect with backend-focused dev communities to discuss topics like scalable architecture, Java security practices, and microservices design.**
+- **🤝 I’m looking to connect with backend-focused dev communities to discuss topics like scalable architecture, Java security practices, and microservices design.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/felixxplore](https://github.com/felixxplore)
 
